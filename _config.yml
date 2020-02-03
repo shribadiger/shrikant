@@ -15,7 +15,7 @@ github_username:  shribadiger
 # facebook_username: jekyll
 # flickr_username: jekyll
 instagram_username: shrikantbadiger
-linkedin_username: ShrikantBadiger
+linkedin_username: https://www.linkedin.com/in/shrikant-badiger-8ab41330/
 # pinterest_username: jekyll
 youtube_username: globalmtb
 # googleplus_username: +jekyll
@@ -24,7 +24,10 @@ youtube_username: globalmtb
 # about_title: About Me
 about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
-  Hi, my name is Shrikant Badiger and I am a Senior Software Engineer in Siemens Technology-Bangalore. I am C, C++ and Python Programmer having 8 Years of Experience in development.
+  Hi, 
+  I am Shrikant Badiger working as Senior Developer in Siemens Technology and Service Pvt Ltd, Bangalore. I am having 8 Years
+  of Experience in Telecom and Industrial Automation software development using C, C++, Python and Scripting Languaues. I am 
+  interesetd in Object Oriented Programming Languages and Video and Image Processing using OpenCV and Python. 
 
   Skill : <mark> C / C++ Programming </mark>  & <mark> Docker / Kubernetes </mark> & <mask> Machine Learning </mask>
 
